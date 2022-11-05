@@ -56,7 +56,6 @@ function Home() {
             </main>
 
         </div>
-        <hr />
       
     </div>
   )
